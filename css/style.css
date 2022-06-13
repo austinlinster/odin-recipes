@@ -1,0 +1,16 @@
+.title {
+    background-color: antiquewhite;
+    color: rgb(157, 30, 157);
+    font-weight: bolder;
+    text-align: center;
+}
+
+.chef {
+    height: auto;
+    width: fit-content;
+}
+
+#blurb {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
